@@ -25,7 +25,7 @@ $jupyter lab --port=8888 --ip=0.0.0.0 --allow-root --no-browser
 
 ### Step 3 - Opening Jupyter notebook to access the container
 
-Important - Open this command on a client machine, it doesnt have to be on the same Workstation where the container is running
+Important - Open this command on a client machine, it doesn't have to be on the same Workstation where the container is running
 
 ```bash
 http://(hostip):8888/lab
@@ -34,12 +34,17 @@ http://(hostip):8888/lab
 Change the (hostip) for the IP where the container is running
 Insert the token to login into the notebook
 
+On the Jupyter lab navigate to work/benchmarks/DLBenchmarks_notebooks/Notebooks and open the RTX8000 vs RTX 2080Ti.ipyn file
+
+####### Follow the steps on the notebook
+
+
 ### Step 4 - Launching the notebook
 
 Once inside Jupyter go to /work/benchmarks/RTX8000 vs RTX 2080 Ti.ipynb
 Follow the steps on the notebook to run the benchamrks.
 
-### List of benchmarks available 
+### List of benchmarks available
 
 ```bash
 alexnet
