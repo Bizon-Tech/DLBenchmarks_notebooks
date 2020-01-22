@@ -9,8 +9,9 @@ On our Bizon Workstation we need to download the benchmark files, open a NGC ten
 ### Step 1 - Downloading the files
 
 ```bash
-$cd Download
+$cd Downloads
 $mkdir benchmarks
+$cd benchmarks
 $git clone  https://github.com/gimel383/DLBenchmarks_notebooks.git
 $cd
 ```
