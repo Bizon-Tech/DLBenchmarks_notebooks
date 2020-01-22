@@ -34,15 +34,11 @@ http://(hostip):8888/lab
 Change the (hostip) for the IP where the container is running
 Insert the token to login into the notebook
 
-On the Jupyter lab navigate to work/benchmarks/DLBenchmarks_notebooks/Notebooks and open the RTX8000 vs RTX 2080Ti.ipyn file
-
-####### Follow the steps on the notebook
-
 
 ### Step 4 - Launching the notebook
 
-Once inside Jupyter go to /work/benchmarks/RTX8000 vs RTX 2080 Ti.ipynb
-Follow the steps on the notebook to run the benchamrks.
+Once inside Jupyter go to work/benchmarks/DLBenchmarks_notebooks/Notebooks and open the RTX8000 vs RTX 2080Ti.ipyn
+####### Follow the steps on the notebook
 
 ### List of benchmarks available
 
