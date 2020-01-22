@@ -38,3 +38,19 @@ Insert the token to login into the notebook
 
 Once inside Jupyter go to /work/benchmarks/RTX8000 vs RTX 2080 Ti.ipynb
 Follow the steps on the notebook to run the benchamrks.
+
+### List of benchmarks available 
+
+```bash
+alexnet
+densenet
+googlenet
+inception
+lenet
+overfeat
+resnet
+trivial
+vgg
+```
+
+Notebooks for easy to run benchmarks will be available soon.
