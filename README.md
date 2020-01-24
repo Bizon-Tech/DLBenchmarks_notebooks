@@ -12,7 +12,7 @@ On our Bizon Workstation we need to download the benchmark files, open a NGC ten
 $cd Downloads
 $mkdir benchmarks
 $cd benchmarks
-$git clone  https://github.com/gimel383/DLBenchmarks_notebooks.git
+$git clone  https://github.com/Bizon-Tech/DLBenchmarks_notebooks.git
 $cd
 ```
 
