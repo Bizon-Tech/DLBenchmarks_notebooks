@@ -1,6 +1,6 @@
 # Benchmark GPU Using Nvidia-samples ( Recommended when running NGC containers)
 
-## Getting the files
+## Overview
 
 On our Bizon Workstation we are going launch the NGC TensorFlow container that comes pre-installed in our Workstation, we will navigate to the benchmarks folder and run the commands to run the benchmarks for different batch sizes.
 
@@ -74,7 +74,7 @@ vgg
 
 Notebooks for easy to run benchmarks will be available soon.
 
-# Website and Author 
+# Website and Author
 
 - https://bizon-tech.com/
 - Author: Ruben R. Fernandez
